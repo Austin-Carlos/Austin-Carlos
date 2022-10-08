@@ -1,16 +1,13 @@
-### Hi there 👋
+#Austin-Carlos
 
-<!--
-**Austin-Carlos/Austin-Carlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi Bruh!
 
-Here are some ideas to get you started:
+This Is free Tool!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+rm -rf Austin-Carlos
+
+git clone https://github.com/Austin-Carlos/Austin-Carlos
+
+cd A-C.py
+
+python A-C.py
