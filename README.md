@@ -8,6 +8,6 @@ rm -rf Austin-Carlos
 
 git clone https://github.com/Austin-Carlos/Austin-Carlos
 
-cd A-C.py
+cd Austin-Carlos.py
 
 python A-C.py
